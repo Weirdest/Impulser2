@@ -1,0 +1,2 @@
+rootProject.name='Impulser2'
+include ':app'
